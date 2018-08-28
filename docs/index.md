@@ -1,5 +1,5 @@
 # The CAT project
-This is the documentation for the Correlation Attacks against Tor (CAT) research project funded largely by the [Internet Foundation in Sweden](https://www.iis.se/english/about-iis/) between fall 2018 to March 2019. The principal investigator is [Tobias Pulls](https://www.kau.se/en/researchers/tobias-pulls) at [Karlstad University](https://www.kau.se/en/cs).
+This is the documentation for the Correlation Attacks against Tor (CAT) research project funded largely by the [Internet Foundation in Sweden](https://www.iis.se/english/about-iis/) from fall 2018 until March 2019. The principal investigator is [Tobias Pulls](https://www.kau.se/en/researchers/tobias-pulls) at [Karlstad University](https://www.kau.se/en/cs).
 
 <p align="center">
   <a href="https://www.iis.se/english/about-iis/"><img src="img/iis.png" width="64"></a>
