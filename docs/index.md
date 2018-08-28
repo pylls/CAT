@@ -1,6 +1,6 @@
 # The CAT project
 This is the documentation for the Correlation Attacks against Tor (CAT) research project at [Karlstad University](https://www.kau.se/cs). 
-CAT is funded largely by [the Internet Foundation in Sweden](https://www.iis.se/english/about-iis/) between fall 2018 to March 2019.
+CAT is funded largely by the [Internet Foundation in Sweden](https://www.iis.se/english/about-iis/) between fall 2018 to March 2019.
 
 <p align="center">
   <a href="https://www.kau.se/cs"><img src="img/kau.png" width="64"></a>
