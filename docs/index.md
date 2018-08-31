@@ -7,7 +7,7 @@ This is the documentation for the Correlation Attacks against Tor (CAT) research
 </p>
 
 The ultimate goal of the project is to contribute to figuring out how to [effectively pad network traffic](https://arxiv.org/pdf/1512.00524.pdf) in [Tor](https://www.torproject.org/) to better resist [some types of traffic analysis attacks](https://blog.torproject.org/tors-open-research-topics-2018-edition).
-We will contribute towards this goal by investigating _correlation attacks_ against Tor and the effects of padding.
+We will contribute towards this goal by further investigating _correlation attacks_ against Tor, a form of traffic analysis.
 
 ## Traffic Analysis and Anonymity Networks
 One type of attack on anonymity networks is so-called _traffic analysis attacks_ where an attacker observes network traffic and based on observed _non-content_ information---such as packet sizes, timing, communication patterns and volume---attempts to break the anonymity (or unlinkability) properties of the anonymity network.
